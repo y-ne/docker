@@ -9,7 +9,7 @@ Listing Docker
 docker ps
 ```
 
-docker compose specific files
+building containers on specific files with Docker Compose 
 ```
-docker compose -f <yml file>
+docker-compose -f <yml file> up -d
 ```
